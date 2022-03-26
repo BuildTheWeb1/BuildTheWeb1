@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Claudiu
 - 👀 I’m interested in Web & Mobile App development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React & Wordpress Projects
 - 📫 How to reach me ...
 
 <!---
