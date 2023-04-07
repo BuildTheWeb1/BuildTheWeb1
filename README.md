@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Claudiu
 - 👀 I’m interested in Web & Mobile App development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React & Wordpress Projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on React & React Native Projects
+- 📫 You can reach me at build.the.web1@gmail.com
 
 <!---
 BuildTheWeb1/BuildTheWeb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
