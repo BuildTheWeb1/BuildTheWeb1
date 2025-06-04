@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Claudiu
-- 👀 I’m interested in Web & Mobile App development
-- 💞️ I’m looking to collaborate on React & React Native Projects
+- 👀 I’m trying my best to build cool stuff
 - 📫 You can reach me at build.the.web1@gmail.com
 
 <!---
