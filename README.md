@@ -1,7 +1,5 @@
 ### Hi, I'm Claudiu 👋
 
-Software engineer working at the intersection of web/mobile engineering and practical AI. I spend most of my time building tools and workflows around AI agents, not just calling them.
-
 🛠️ Selected work
 
 I build AI workflows and developer tooling. A few I'm proud of:
