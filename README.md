@@ -12,4 +12,4 @@ Software engineer from Romania. I build web and mobile apps with React, TypeScri
 
 **Stack:** TypeScript · React · React Native · Node.js · Python · Claude / MCP
 
-📫 [iamclau.dev](https://iamclau.dev) · [LinkedIn](https://www.linkedin.com/in/claudiu-carpineanu/) · [X](https://x.com/buildtheweb1) · build.the.web1@gmail.com
+📫 [iamclau.dev](https://iamclau.dev) · [X](https://x.com/buildtheweb1) · build.the.web1@gmail.com
